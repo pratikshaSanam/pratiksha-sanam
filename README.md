@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratiksha-sanam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pratikshaSanam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
